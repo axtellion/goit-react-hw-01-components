@@ -10,7 +10,6 @@ import {
   position,
 } from 'styled-system';
 
-
 export const Box = styled('div')(
   color,
   space,

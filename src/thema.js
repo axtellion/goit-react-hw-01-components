@@ -33,7 +33,7 @@ export const theme = {
   borders: {
     none: 'none',
     normal: '1px solid',
-    small: '0.5px solid'
+    small: '0.5px solid',
   },
   radii: {
     none: '0',

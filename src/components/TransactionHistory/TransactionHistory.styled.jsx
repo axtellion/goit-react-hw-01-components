@@ -6,7 +6,7 @@ width: 100%;
 `
 
 export const TableList = styled.tbody`
-    text-align: center;
+        text-align: center;
 `
 
 export const ListItem = styled.tr`
